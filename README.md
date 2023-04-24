@@ -29,15 +29,15 @@
 
 
 <h3 align="center">
-Overview
-<img src="https://github.com/yewin-mm/high-level-fin-tech-microservice-architecture/blob/master/github/template/images/overview/helper_util.png" /><br/>
+Download the file as per below download section for fullview
+<img src="https://github.com/yewin-mm/high-level-fin-tech-microservice-architecture/blob/master/github/template/images/overview/microservice_architecture.png" /><br/>
 </h3>
 
 # high-level-fin-tech-microservice-architecture
-* This is the demo approach design for high-level microservice architecture in Fin-Tech fields.
-* This project purpose is to show my design to my interviewer or my employer.
-* Please don't use this design without my permission and approval.
-* If you like this, please contact me for more details discussion and explanation about this architecture.
+This is the demo approach design for high-level microservice architecture in Fin-Tech fields.
+This project purpose is to show my design to my interviewer or my employer. <br>
+Please don't use this design without my permission and approval. <br>
+If you like this, please contact me for more details discussion and explanation about this architecture.
 
 
 <!-- TABLE OF CONTENTS -->
@@ -80,13 +80,13 @@ This project is built with
    ```
 
 <a name="download"></a>
-### 🥡 Download
-* You can download by clicking this link. [Download](https://github.com/yewin-mm/high-level-fin-tech-microservice-architecture/raw/master/Fin-Tech Microservice Architecture (Ye Win).xlsx)
+### ⬇️ Download
+* You can download by clicking this link. [Download](https://github.com/yewin-mm/high-level-fin-tech-microservice-architecture/raw/master/Fin-Tech%20Microservice%20Architecture%20(Ye%20Win).xlsx)
 * If you like this, please contact me for more details discussion and explanation about this architecture.
 
 <a name="contact"></a>
 ## ✉️ Contact
-Name - Ye Win <br> LinkedIn profile -  [My LinkedIn](https://www.linkedin.com/in/ye-win-1a33a292/)  <br> Email Address - yewin.mmr@gmail.com <br> WhatsApp - +959252656065 <br> Website - [My Website](https://yewin.me/)
+Name - Ye Win <br> LinkedIn profile -  [Ye Win](https://www.linkedin.com/in/ye-win-1a33a292/)  <br> Email Address - <a href="mailto:yewin.mmr@gmail.com?">yewin.mmr@gmail.com</a> <br> WhatsApp - [+959252656065](https://wa.me/959252656065?text=Hi) <br> Website - [My Website](https://yewin.me/)
 
 Project Link: [High Level Fin-Tech Microservice Architecture](https://github.com/yewin-mm/high-level-fin-tech-microservice-architecture)
 
